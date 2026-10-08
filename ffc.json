@@ -1,0 +1,22 @@
+{
+    "version": "1.16.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nasroykh/foxmayn_frappe_cli/releases/download/v1.16.0/ffc_1.16.0_windows_amd64.zip",
+            "bin": [
+                "ffc.exe"
+            ],
+            "hash": "17869a41a768358ca55954986a8ffa34861bc75a822697e5b5525dba56470bbe"
+        },
+        "arm64": {
+            "url": "https://github.com/nasroykh/foxmayn_frappe_cli/releases/download/v1.16.0/ffc_1.16.0_windows_arm64.zip",
+            "bin": [
+                "ffc.exe"
+            ],
+            "hash": "61e9ab58d3e0c0d24cc4790952ec4ea52b2a5e3c15cffcaac02bc64c84be3f22"
+        }
+    },
+    "homepage": "https://github.com/nasroykh/foxmayn_frappe_cli",
+    "license": "MIT",
+    "description": "Command-line client and MCP server for Frappe and ERPNext sites"
+}
