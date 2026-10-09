@@ -1,19 +1,19 @@
 {
-    "version": "1.18.0",
+    "version": "1.19.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nasroykh/foxmayn_frappe_cli/releases/download/v1.18.0/ffc_1.18.0_windows_amd64.zip",
+            "url": "https://github.com/nasroykh/foxmayn_frappe_cli/releases/download/v1.19.0/ffc_1.19.0_windows_amd64.zip",
             "bin": [
                 "ffc.exe"
             ],
-            "hash": "d229d43857e81b786a16a3ad33b8dc4d9838eeaebe2b60b9a0a517146aefd4c5"
+            "hash": "c28a37f184ded3f33bc4c787042f215adcf3e143e54593a67288d70e70fce9d7"
         },
         "arm64": {
-            "url": "https://github.com/nasroykh/foxmayn_frappe_cli/releases/download/v1.18.0/ffc_1.18.0_windows_arm64.zip",
+            "url": "https://github.com/nasroykh/foxmayn_frappe_cli/releases/download/v1.19.0/ffc_1.19.0_windows_arm64.zip",
             "bin": [
                 "ffc.exe"
             ],
-            "hash": "20db685869030b9f05bc59db000ef97a2c456bc56e3757975ec9e0f8e1855b43"
+            "hash": "2f7cfabd21f7d2ee668c13dced4d04c3bc8e2fa6bbf4e16eae27393ad9146b9c"
         }
     },
     "homepage": "https://github.com/nasroykh/foxmayn_frappe_cli",
